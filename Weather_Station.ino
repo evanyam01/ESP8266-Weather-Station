@@ -14,14 +14,14 @@
 #include <math.h>
 
 //definitions for wifi
-const char* ssid = "Wu-Tag Lan";                   // SSID of local network
-const char* password = "ronitchangedthepassword";  // Password on network
+const char* ssid = "";                   // SSID of local network
+const char* password = "";  // Password on network
 
 int currentState;
 
 //definitions for OpenWeatherMap
-String APIKEY = "2d1900821096c0e62788b0ca3244baa2";
-String CityID = "5746545";
+String APIKEY = "";
+String CityID = "";
 String units = "imperial";
 String lat;
 String lon;
@@ -124,7 +124,7 @@ const unsigned char Process2_Sym[] PROGMEM = {
 };
 
 //definitions for wifimanager
-const char* apName = "Made By Evan";
+const char* apName = "";
 String apNamestr = apName;
 
 //WS2812b Setup
@@ -207,7 +207,7 @@ void setup() {
 
   /*
   Serial.println("");
-  Serial.println("Good" + timeOfDay + " Kiana! Here's the weather for today:");
+  Serial.println("Good" + timeOfDay + " Here's the weather for today:");
   Serial.println("Weather: " + weather);
   Serial.println("Current Temperature: " + temp + "°F");
   Serial.print("Max Temperature: ");
