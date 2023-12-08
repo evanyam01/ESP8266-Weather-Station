@@ -9,3 +9,5 @@
 ![image](https://github.com/evanyam01/ESP8266-Weather-Station/assets/129211573/a2e2f026-36b4-4705-ab97-eaa647249dfe)
 
 ![image](https://github.com/evanyam01/ESP8266-Weather-Station/assets/129211573/e592a72a-3b25-490b-875b-c5e26bb030ef)
+
+![image](https://github.com/evanyam01/ESP8266-Weather-Station/assets/129211573/920aed50-20c2-41a1-92ba-49520f162273)
